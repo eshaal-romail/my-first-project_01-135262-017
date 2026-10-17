@@ -1,18 +1,18 @@
-\# My First Project
+\## Skills I'm Learning
 
 
 
-\## About
-
-This is my first GitHub repository created in ICT Lab.
+1 GitHub and version control
 
 
 
-\## Student Info
+2 Programming fundamentals
 
-\- Name: Eshaal
 
-\- Program: BSIT
 
-\- Date: October, 2025
+3 ICT concepts
+
+
+
+4 Clickup
 
